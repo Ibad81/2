@@ -1,6 +1,6 @@
 package com.GLA;
 
-import java.util.Scanner;
+import.util.Scanner;
 
 public class Student {
     public static void main (String [] args) {
